@@ -8,9 +8,7 @@ This project aims to scrape amazon website to get all product and their details 
 2. Data Transformations - transform dataframe to create final cleaned table
 3. Data Load - Save the dataframe as csv for business stakeholders
 
-<h2>Architecture Diagram</h2>
-
-![project 1 2](https://user-images.githubusercontent.com/91051383/226414916-ddbced76-cedf-44c5-9c89-38679ad89263.png)
+<h2>Project Snapshot</h2>
 
 ## Services we will be using
 1. Python libraries - BeautifulSoup, Pandas, Matplotlib
